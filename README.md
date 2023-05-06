@@ -1,4 +1,4 @@
-# Data Cleaning Python Script README
+# Data Cleaning Python Script
 
 This Python script is designed to clean and transform data in CSV files. The script is built using the pandas library, which allows the user to read CSV files as well as other file formats like Excel, JSON, HTML, fixed-wordth format, and API. The script enables the user to perform various cleaning operations such as removing columns, removing duplicates, filling null values, and removing outliers.
 
